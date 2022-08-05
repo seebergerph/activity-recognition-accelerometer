@@ -1,6 +1,6 @@
 # Prediction of human activities based on a single wearable chest-mounted accelerometer
 
-*Note: This project was conducted as part of the course Practical Data Science at the RMIT University.*
+(student project)
 
 This project addresses the recognition of human activities based on sensor data gathered by a single wearable chest-mounted accelerometer. The jupyter notebook content includes data preprocessing, exploratory data analysis, feature engineering, modeling and evaluation.
 
